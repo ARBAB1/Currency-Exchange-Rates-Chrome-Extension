@@ -1,5 +1,5 @@
 async function fetchData() {
-    const res=await fetch ("https://openexchangerates.org/api/latest.json?app_id=acb29aad06f94cd19c4235fff36edcad");
+    const res=await fetch ("https://openexchangerates.org/api/latest.json?app_id=YOUR_API_KEY");
     const record=await res.json();
     document.getElementById("PKR").innerHTML=record.rates["PKR"];
     document.getElementById("USD").innerHTML=record.rates["USD"];
