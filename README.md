@@ -15,13 +15,13 @@ A simple and intuitive Chrome Extension that displays the latest currency exchan
 
 ## Screenshots
 
-![Extension Screenshot](./screenshots/currency-extension.png)
+![Extension Screenshot](./assets/Screenshot.png)
 
 ## Installation
 
 1. Clone or download this repository.
    ```bash
-   git clone https://github.com/yourusername/Currency-Exchange-Rates-Chrome-Extension.git
+   git clone https://github.com/ARBAB1/Currency-Exchange-Rates-Chrome-Extension.git
 
 2. Open Chrome and navigate to chrome://extensions/.
 
@@ -75,7 +75,7 @@ Replace YOUR_API_KEY with your actual API key.
 Feel free to submit issues and pull requests for new features, improvements, or bug fixes.
 
 ## License
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the MIT License - see the [LICENSE](./LICENSE.md) file for details.
 
 
 ### Key Sections Explained:
@@ -88,3 +88,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 This README gives clear instructions to users and contributors.
 
 
+This project is licensed under the MIT License. See the full text of the license [here](https://opensource.org/licenses/MIT).
